@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Start making money online today with our step-by-step guide!">
+    <title>Make Money Online</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+        header {
+            background-color: #0073e6;
+            color: #fff;
+            padding: 20px 0;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .content {
+            margin: 20px 0;
+        }
+        .content h2 {
+            color: #0073e6;
+        }
+        .cta-button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 15px 30px;
+            background-color: #0073e6;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 18px;
+            transition: background-color 0.3s ease;
+        }
+        .cta-button:hover {
+            background-color: #005bb5;
+        }
+        footer {
+            margin-top: 20px;
+            padding: 10px 0;
+            background-color: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Make Money Online</h1>
+    </header>
+    <div class="container">
+        <div class="content">
+            <h2>Start Your Journey to Financial Freedom</h2>
+            <p>Discover how you can earn money online with simple steps. No prior experience needed! Take control of your income and work on your own schedule.</p>
+            <a href="https://online-earn-ltd.blogspot.com/2024/12/country-based-redirect-async-function.html" class="cta-button">Get Started Now</a>
+        </div>
+    </div>
+    <footer>
+        <p>© 2024 Online Earn Ltd. All rights reserved.</p>
+    </footer>
+</body>
+</html>
